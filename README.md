@@ -4,4 +4,4 @@ The idea of this assignment is to apply html5 semantic elements by replacing the
 Screenshot:
 
 Link: https://github.com/malekmekdashi/code_refactor
-      http://127.0.0.1:5500/index.html
+LInk: http://127.0.0.1:5500/index.html
